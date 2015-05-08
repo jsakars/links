@@ -10,6 +10,6 @@ Useful tech links etc.
 - http://devdocs.io/
 - https://compressor.io/ - Compress and optimize your images
 - https://eval.in/
-- http://requestb.in/
+- http://requestb.in/ - collect requests made to it and let you inspect them in a human-friendly way
 - https://pcottle.github.io/learnGitBranching/
 - http://johnpolacek.github.io/superscrollorama/
