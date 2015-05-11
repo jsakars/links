@@ -13,3 +13,4 @@ Useful tech links etc.
 - http://requestb.in/ - collect requests made to it and let you inspect them in a human-friendly way
 - https://pcottle.github.io/learnGitBranching/ - GUI GIT learning
 - http://johnpolacek.github.io/superscrollorama/
+- https://jex.im/regulex/ - JavaScript Regular Expression Visualizer
