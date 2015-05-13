@@ -16,3 +16,4 @@ Useful tech links etc.
 - https://jex.im/regulex/ - JavaScript Regular Expression Visualizer
 - https://blog.engineyard.com/
 - https://puphpet.com/ - A simple GUI to set up virtual machines for Web development
+- https://laracasts.com/
