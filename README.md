@@ -15,4 +15,4 @@ Useful tech links etc.
 - http://johnpolacek.github.io/superscrollorama/
 - https://jex.im/regulex/ - JavaScript Regular Expression Visualizer
 - https://blog.engineyard.com/
-- https://puphpet.com/
+- https://puphpet.com/ - A simple GUI to set up virtual machines for Web development
