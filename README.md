@@ -19,3 +19,5 @@ Useful tech links etc.
 - https://laracasts.com/
 - http://cheats.jesse-obrien.ca/ - Laravel Cheat Sheet
 - http://agar.io/
+- https://envoyer.io/
+- http://openl10n.io/
