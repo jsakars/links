@@ -10,7 +10,7 @@ Useful tech links etc.
 - http://devdocs.io/
 - https://compressor.io/ - Compress and optimize your images
 - https://eval.in/
-- http://requestb.in/ - collect requests made to it and let you inspect them in a human-friendly way
+- http://requestb.in/ - Collect requests made to it and let you inspect them in a human-friendly way
 - https://pcottle.github.io/learnGitBranching/ - GUI GIT learning
 - http://johnpolacek.github.io/superscrollorama/
 - https://jex.im/regulex/ - JavaScript Regular Expression Visualizer
@@ -28,4 +28,4 @@ Useful tech links etc.
 - https://scrutinizer-ci.com
 - http://robo.li/
 - https://icicle.io/ - Write asynchronous code using synchronous coding techniques in PHP
-- https://github.com/cartalyst/sentinel/ - framework agnostic authorization and authentication package
+- https://github.com/cartalyst/sentinel/ - Framework agnostic authorization and authentication package
