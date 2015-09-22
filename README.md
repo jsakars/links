@@ -28,3 +28,4 @@ Useful tech links etc.
 - https://scrutinizer-ci.com
 - http://robo.li/
 - https://icicle.io/ - Write asynchronous code using synchronous coding techniques in PHP
+- https://github.com/cartalyst/sentinel/ - framework agnostic authorization and authentication package
