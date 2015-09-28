@@ -30,3 +30,4 @@ Useful tech links etc.
 - https://icicle.io/ - Write asynchronous code using synchronous coding techniques in PHP
 - https://github.com/cartalyst/sentinel/ - Framework agnostic authorization and authentication package
 - https://github.com/justinrainbow/json-schema
+- https://cdnjs.com/
