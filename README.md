@@ -32,3 +32,4 @@ Useful tech links etc.
 - https://github.com/justinrainbow/json-schema
 - https://cdnjs.com/
 - https://litmus.com/
+- http://hashids.org/ - Generate short unique ids from integers
