@@ -35,3 +35,4 @@ Useful tech links etc.
 - http://hashids.org/ - Generate short unique ids from integers
 - https://www.fusetools.com/ - UX tool suite for app designers and developers
 - http://bevacqua.github.io/dragula/ - Drag and drop so simple it hurts
+- https://httpbin.org/ - HTTP Client Testing Service
