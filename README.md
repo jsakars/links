@@ -37,3 +37,4 @@ Useful tech links etc.
 - http://bevacqua.github.io/dragula/ - Drag and drop so simple it hurts
 - https://httpbin.org/ - HTTP Client Testing Service
 - https://letsencrypt.org/ - Free, automated, and open Certificate Authority
+- https://clipboardjs.com/ - A modern approach to copy text to clipboard
