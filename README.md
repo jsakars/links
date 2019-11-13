@@ -44,3 +44,4 @@ Useful tech links etc.
 - http://ionicframework.com/ - Open source framework for building amazing mobile apps
 - https://statamic.com/ - A true CMS designed to make agencies profitable, developers happy, and clients hug you.
 - https://github.com/nhnent/tui.calendar - A JavaScript calendar that everything you need.
+- https://dev.yorhel.nl/ncdu - unix disk usage analyzer with an ncurses interface
